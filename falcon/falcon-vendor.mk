@@ -40,4 +40,5 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/falcon/proprietary/vendor/lib/libmmcamera2_vpe_module.so:system/vendor/lib/libmmcamera2_vpe_module.so \
     vendor/motorola/falcon/proprietary/vendor/lib/libmmcamera2_wnr_module.so:system/vendor/lib/libmmcamera2_wnr_module.so \
     vendor/motorola/falcon/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
-    vendor/motorola/falcon/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so
+    vendor/motorola/falcon/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
+    vendor/motorola/falcon/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so
